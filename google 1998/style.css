@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+}
+
+input {
+    width: 400px;
+}
+
+.content1 {
+    background-color: lightgrey;
+}
+
+.row1 {
+    text-align: left; 
+    background-color:#21dbd5; width: 300px;
+    }
+
+.row3 {
+    text-align: right;
+    background-color: #088c88; width: 300px;
+    margin-left: 1200px;
+}
+
+.input2 {
+    width: 100px;
+}
+
+.row2 {
+    background-color: #0eb0ab; width: 300px;
+    margin-left: 600px;
+}
+
